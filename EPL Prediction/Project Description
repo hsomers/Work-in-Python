@@ -1,0 +1,6 @@
+Motivation:
+I wanted to find a walkthrough of how to analyze soccer data using python, and I came across this great tutorial made by David Sheehan.
+Most of the programming is from the tutorial, but I used a newer dataset, and needed to change a couple variables/names so it could work.
+
+Link:
+https://dashee87.github.io/data%20science/football/r/predicting-football-results-with-statistical-modelling/
