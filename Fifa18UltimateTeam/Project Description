@@ -3,3 +3,5 @@ Ultimate Team game mode to figure out what the best-possible 11-player team coul
 
 The analysis is still a work in progress. I would like to incorporate the "team chemistry" aspect of ultimate team, which would require
 some calculations based on nationality, position, and league that each player is in.
+
+Link: https://www.kaggle.com/stefanoleone992/fifa-18-fifa-ultimate-team
