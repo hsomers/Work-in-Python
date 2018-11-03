@@ -3,6 +3,15 @@
 Created on Thu Oct 25 15:06:12 2018
 
 @author: HDSom
+
+In this project, I will be analyzing wine review data that I obtained from
+Kaggle (Link: https://www.kaggle.com/zynicide/wine-reviews).
+
+Current status: Created a linear regression with sklearn to attempt to predict
+a wine's points from the price listed.
+
+Next up: Attempting to find a proper ML algorithm to predict points maybe using
+other, additional variables.
 """
 
 import pandas as pd
@@ -12,6 +21,8 @@ from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error, r2_score
 from sklearn import datasets
+
+
 
 # Import the dataframe and clean out any nulls or missing records
 df = pd.read_csv('winemag-data-130k-v2.csv')
